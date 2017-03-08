@@ -8,6 +8,7 @@
 
 纯属个人业余玩耍学习的代码，如有不对之处，请及时指出。
 
+> 此代码为半成品，请勿在实际项目中使用，仅供参考。
 
 [dapper]:https://github.com/StackExchange/Dapper
 [codeplex]:https://aspnet.codeplex.com/SourceControl/latest
